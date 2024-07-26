@@ -43,6 +43,10 @@ dependencies:
   provider: ^6.1.2
   intl: any
   flutter_native_splash: ^2.3.7
+  firebase_core: ^2.24.2
+  cloud_firestore: ^4.14.0
+  shared_preferences: ^2.2.3
+
 
 dev_dependencies:
   flutter_test:
