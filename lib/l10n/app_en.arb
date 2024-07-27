@@ -1,0 +1,21 @@
+{
+"app_title" : "To Do List",
+"list": "List",
+"setting":"Setting",
+"done": "Done",
+"task_title":"Task Title",
+"task_description":"Task Description",
+"selected_date":"Selected Date",
+"save_changes":"Save Changes",
+"language":"Language",
+"arabic":"Arabic",
+"english":"English",
+"theme":"Theme",
+"light":"Light",
+"dark":"Dark",
+"add":"Add",
+"add_new_task":"Add New Task",
+"enter_task_title":"Enter task Title",
+"enter_task_description":"Enter task Description",
+"delete":"Delete"
+}
